@@ -6,7 +6,7 @@ $(document).ready(function() {
 
     suits.forEach(function(suit) {
       numbers.forEach(function(number) {
-        var card = number + " of " + suit;
+        var card = number + " " + "of" + " " + suit;
         deck.push(card);
       });
     });
