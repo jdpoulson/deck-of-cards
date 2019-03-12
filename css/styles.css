@@ -1,3 +1,9 @@
 #mydeck {
   display: none;
 }
+.single-card {
+  border: 1px solid black;
+}
+.single-card2 {
+  border: 1px solid black;
+}
