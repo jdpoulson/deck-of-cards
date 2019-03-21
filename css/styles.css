@@ -3,7 +3,34 @@
 }
 .single-card {
   border: 1px solid black;
+  float: none;
+  margin-left: 10px;
+  padding: 10px;
 }
 .single-card2 {
   border: 1px solid black;
+  float: none;
+  margin-left: 10px;
+  padding: 10px;
+}
+.compare {
+  border: 10px;
+  float: none;
+  margin-left: 10px;
+  padding: 10px;
+}
+#draw {
+  padding: 10px;
+  margin: 10px;
+  float: none;
+}
+#draw2 {
+  padding: 10px;
+  margin: 10px;
+  float: none;
+}
+#button {
+  padding: 10px;
+  margin: 10px;
+  float: none;
 }
